@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES2015",
+    "module": "CommonJS",
+    "lib": [ "ESNext" ],
+    "moduleResolution": "Node",
+    "declaration": true
+  },
+  "exclude": [ "dist" ]
+}
