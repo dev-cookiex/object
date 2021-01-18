@@ -1,6 +1,6 @@
 {
   "name": "@cookiex/object",
-  "version": "0.0.0",
+  "version": "0.0.1-f7cfb0b.0",
   "description": "Object tools",
   "main": "index.js",
   "author": "Tony <tony.js@zoho.eu>",
